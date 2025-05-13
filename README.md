@@ -8,3 +8,13 @@ For a full localisation, three strings are needed:
 - extensionDescription: the description for the addon
 - contextItemTitle: the text that appears in the actual context menu. To define an access key (the keyboard shortcut to quickly activate the menu item), prepend the letter that corresponds to the access key in the string with &. This letter will appear underlined in the context menu.
 Please see the english locale for reference.
+Hi,
+
+is it possible to translate „Close Tabs to the right“ into German?
+
+•	extensionName: "Tabs rechts schließen"
+•	extensionDescription: "Tabs rechts schließen"
+•	contextItemTitle: "Die Erweiterung macht die Option zum Schließen der Tabs rechts vom aktuellen Tab (wieder) zu einem Menüpunkt in der obersten Kontextebene."
+
+Merci beaucoup,
+Stefano
